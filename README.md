@@ -1,6 +1,4 @@
-I write code, build worlds and make games for fun. 
+Game developer, I make games for fun.
 
-Feel free to contact me thru Roblox messages, Twitter, or DevForum!
-https://devforum.roblox.com/u/RealExoctic | https://twitter.com/RealExoctic
-
-You'll have to follow me in order to send me a Roblox message however.
+realexoctic.xyz
+https://github-readme-stats.vercel.app/api?username=RealExoctic&show_icons=true&theme=cobal
